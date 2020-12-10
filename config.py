@@ -1,52 +1,22 @@
-'''
-Layscape Kumaru Script
-My Principal Anyone Can Enjoy Premium Feature Without Buy It ^.^
-
-Any Suggest PM Me On Whatsapp or Telegram
-'''
-
-
-'''
-Fill Your 999Doge Account
-'''
 account = {
-	"Username":"xxx",
-	"Password":"xxx"
+	"Username":"scmb0tfree",
+	"Password":"q"
 }
-'''
-Change Your Bet Strategy/Bet Setting
-'''
 betset = {
-	"Basebet":"0.00001",
-	"Chance1":"40",
-	"Chance2":"55"
+	"Basebet":"0.026",
+	"Chance1":"70",
+	"Chance2":"70"
 }
-
-'''
-Select Bet Setting Tools
-Note :
-IFLose = Increase Bet After Lose
-IFWin = Increase Bet After Win
-'''
 tools = {
-	"IFLose":"2",
+	"IFLose":"3.4",
 	"IFWin":"1",
-	"TargetProfit":"0.0001",
+	"TargetProfit":"21",
 	"TargetLose":"99999999999",
 	"ResetBetIfWin":"1",
 	"ResetBetIfLose":"0",
 	"ResetSeedEachBet":"ON"
 }
 
-'''
-Select Premium Feature ^.^
-Note :
-Interval In Second, Comma Allowed
-RefreshIfWin and RefreshIfLose Use Number to Use
-Example 
-RefreshIfWin : 3. Automaticaly Refresh After 3 Win Streak 0 to OFF
-RefreshIfLose : 3. Automaticaly Refresh After 3 Lose Streak 0 to OFF
-'''
 feature = {
 	"BetInterval":"0",
 	"BetIntervalLose":"0",
